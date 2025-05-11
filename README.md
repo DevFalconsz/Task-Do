@@ -35,7 +35,7 @@ Um aplicativo web de gerenciamento de tarefas simples e elegante, construído co
 
 1. **Clone este repositório**  
    ```bash
-   git clone https://github.com/seu-usuario/gerenciador-tarefas-streamlit.git
+   git clone https://github.com/DevFalconsz/Task-Do
    cd gerenciador-tarefas-streamlit
    ```
 2. **Instale as dependências**
